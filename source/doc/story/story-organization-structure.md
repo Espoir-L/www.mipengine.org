@@ -8,7 +8,7 @@ layout: examples
 
 ## 知识储备
 
-​	在阅读本篇前，您需要了解什么小故事，如果您还不了解什么是小故事，可以查看[开发小故事前期准备](https://www.mipengine.org/doc/story/create1.html)了解基础信息；
+​	在阅读本篇前，您需要了解什么小故事，如果您还不了解什么是小故事，可以查看[开发小故事前期准备](https://www.mipengine.org/doc/story/add-story-before.html)了解基础信息；
 
 
 ## 小故事的组织结构介绍

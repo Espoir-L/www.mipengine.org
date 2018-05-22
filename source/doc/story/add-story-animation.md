@@ -4,7 +4,7 @@ layout: examples
 
 ## 知识储备
 
-​	在阅读本篇前，您需要了解什么小故事，如果您还不了解什么是小故事，可以查看[开发小故事前期准备](https://www.mipengine.org/doc/story/create1.html)、[小故事的组织结构](https://www.mipengine.org/doc/story/create2.html)、[创建小故事的封面](https://www.mipengine.org/doc/story/create3.html)了解基础信息；
+​	在阅读本篇前，您需要了解什么小故事，如果您还不了解什么是小故事，可以查看[开发小故事前期准备](https://www.mipengine.org/doc/story/add-story-before.html)、[小故事的组织结构](https://www.mipengine.org/doc/story/story-organization-structure.html)、[创建小故事的封面](https://www.mipengine.org/doc/story/add-stroy-cover.html)了解基础信息；
 
 ## 使用小故事内置动画
 
@@ -184,7 +184,8 @@ layout: examples
 
 当然，内置的动画在某些场景下无法完全满足需求，真对此，我们也兼容传统的css aniamtion属性动画，你可以在页面中`<style mip-custom></style>` 中定义你的css animation, 并在你的元素中使用他；
 
-notice:  由于customElement在IOS 11.3上的css animation 存在些兼容性问题，直接使用css动画可能会导致部分情况下动画第一帧丢失，这个问题我们正在解决中。你可以通过显示的为`mip-story`组件声明`display`属性来避免这个问题；
+[notice]  由于customElement在IOS 11.3上的css animation 存在些兼容性问题，直接使用css动画可能会导致部分情况下动画第一帧丢失，这个问题我们正在解决中。你可以通过显示的为`mip-story`组件声明`display`属性来避免这个问题；
+
 
 ```html
 <!DOCTYPE html>

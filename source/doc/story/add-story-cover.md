@@ -4,7 +4,7 @@ layout: examples
 
 ## 知识储备
 
-​	在阅读本篇前，您需要了解什么小故事，如果您还不了解什么是小故事，可以查看[开发小故事前期准备](https://www.mipengine.org/doc/story/create1.html)、[小故事的组织结构](https://www.mipengine.org/doc/story/create2.html)了解基础信息；
+​	在阅读本篇前，您需要了解什么小故事，如果您还不了解什么是小故事，可以查看[开发小故事前期准备](https://www.mipengine.org/doc/story/add-story-before.html)、[小故事的组织结构](https://www.mipengine.org/doc/story/story-organization-structure.html)了解基础信息；
 
 ## 小故事的封面的开发
 
@@ -12,9 +12,9 @@ layout: examples
 
 ​	MIP小故事中的页面由`<mip-story-view>`组件表示。在一个`<mip-story>`组件内部，你可以添加一个或多个`<mip-story-view>`组件。
 
-​	首先我们来添加第一个小故事分页，在代码中添加一个`mip-story-view` 标签。
+​	首先我们来添加第一个小故事段落，在代码中添加一个`mip-story-view` 标签。
 
-​	对于一个小故事页面来说，其中的第一个分页，我们通常把它定义小故事封面，所以我们给它添加一个唯一的id `cover`;
+​	对于一个小故事页面来说，其中的第一个段落，我们通常把它定义小故事封面，所以我们给它添加一个唯一的id为 `cover`;
 
 ```html
 <mip-story id="story-demo">
@@ -33,7 +33,7 @@ layout: examples
 我们的封面实际上由两层组成：
 
 - **第1层**：用作背景的图像
-   **第2层**：故事的标题和副标题	
+- **第2层**：故事的标题和副标题
 
 <img src="http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/story-layer.png" width="350" height="494" />
 
@@ -137,21 +137,22 @@ layout: examples
 <img src="http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/cover-4.png" width="276" height="494" />
 
 #### thirds
-      支持上中下三列布局，在使用该布局时，内部的元素需要同时加入对应的属性，包括：
 
-    - `flex-area='upper-third'`: 元素位于三等分布局的上部；
+支持上中下三列布局，在使用该布局时，内部的元素需要同时加入对应的属性，包括：
 
-    - `flex-area='middle-third'`: 元素位于三等分布局的中部；
+- `flex-area='upper-third'`: 元素位于三等分布局的上部；
 
-    - `flex-area='lower-third'`: 元素位于三等分布局的下部；
+- `flex-area='middle-third'`: 元素位于三等分布局的中部；
 
-      ```html
-      <mip-story-layer template="thirds">
-        <h1 flex-area="upper-third">element 1</h1>
+- `flex-area='lower-third'`: 元素位于三等分布局的下部；
+
+```html
+<mip-story-layer template="thirds">
+    <h1 flex-area="upper-third">element 1</h1>
         <p flex-area="middle-third"></p>
-        <p flex-area="lower-third">element 2</p>
-      </mip-story-layer>
-      ```
+    <p flex-area="lower-third">element 2</p>
+</mip-story-layer>
+```
 
 <img src="http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/cover-5.png" width="276" height="494" />
 

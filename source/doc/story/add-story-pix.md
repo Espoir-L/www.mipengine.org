@@ -4,7 +4,7 @@ layout: examples
 
 ## 知识储备
 
-在阅读本篇前，您需要了解什么小故事，如果您还不了解什么是小故事，可以查看[开发小故事前期准备](https://www.mipengine.org/doc/story/create1.html)、[小故事的组织结构](https://www.mipengine.org/doc/story/create2.html)、[创建小故事的封面](https://www.mipengine.org/doc/story/create3.html)和[创建小故事的封底页面](https://www.mipengine.org/doc/story/create6.html)了解基础信息；
+在阅读本篇前，您需要了解什么小故事，如果您还不了解什么是小故事，可以查看[开发小故事前期准备](https://www.mipengine.org/doc/story/add-story-before.html)、[小故事的组织结构](https://www.mipengine.org/doc/story/story-organization-structure.html)、[创建小故事的封面](https://www.mipengine.org/doc/story/add-stroy-cover.html)和[创建小故事的封底页面](https://www.mipengine.org/doc/story/add-stroy-end.html)了解基础信息；
 
 ## 添加统计
 
@@ -44,7 +44,7 @@ layout: examples
 
 完成了统计添加，我们已经完成了一个小故事的整个开发。你可以把你的小故事页面放到你的服务器上让大家浏览了。
 
-接下来，如果你希望你的小故事页面可以被提交到搜索并被搜索缓存，那么你需要完成[小故事页面的代码规范校验](https://www.mipengine.org/doc/story/add-stroy-validate.html)。
+接下来，如果你希望你的小故事页面可以被提交到搜索并被搜索缓存，那么你需要完成[小故事页面的代码规范校验](https://www.mipengine.org/doc/story/add-story-validate.html)。
 
 
 ## 小故事开发系列教程

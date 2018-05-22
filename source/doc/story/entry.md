@@ -2,7 +2,7 @@ title: 创建小故事-小故事创意指导
 layout: examples
 ---
 
-[一、开发小故事前期准备](https://www.mipengine.org/doc/story/add-stroy-before.html)
+[一、开发小故事前期准备](https://www.mipengine.org/doc/story/add-story-before.html)
 
 [二、小故事的组织结构](https://www.mipengine.org/doc/story/story-organization-structure.html)
 
@@ -18,4 +18,4 @@ layout: examples
 
 [八、为小故事添加页面统计](https://www.mipengine.org/doc/story/add-story-pix.html)
 
-[九、对小故事进行页面代码规范校验](https://www.mipengine.org/doc/story/add-stroy-validate.html)
+[九、对小故事进行页面代码规范校验](https://www.mipengine.org/doc/story/add-story-validate.html)
