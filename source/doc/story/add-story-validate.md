@@ -4,7 +4,7 @@ layout: examples
 
 ## 知识储备
 
-​	在阅读本篇前，您需要了解什么小故事，如果您还不了解什么是小故事，可以查看[开发小故事前期准备](/doc/story/create1.html)、[小故事的组织结构](/doc/story/create2.html)、[创建小故事的封面](/doc/story/create3.html)和[创建小故事的封底页面](/doc/story/create6.html)了解基础信息。
+​	在阅读本篇前，您需要了解什么小故事，如果您还不了解什么是小故事，可以查看[开发小故事前期准备](/doc/story/add-story-before.html)、[小故事的组织结构](/doc/story/story-organization-structure.html)、[创建小故事的封面](/doc/story/add-story-cover.html)和[创建小故事的封底页面](/doc/story/add-story-end.html)了解基础信息；
 
 ## 小故事的MIP规范校验
 
@@ -12,7 +12,7 @@ layout: examples
 
 ### 使用在线校验工具
 
-首先打开 [MIP 校验工具](/validator/validate) 的校验网页，把您开发的小故事页面代码复制粘贴到MIP代码校验工具的可视化区域，在网页的底部就会显示出您开发的小故事页面是否符合MIP规范。
+首先打开 [MIP 校验工具](https://www.mipengine.org/validator/validate) 的校验网页，把您开发的小故事页面代码复制粘贴到MIP代码校验工具的可视化区域，在网页的底部就会显示出您开发的小故事页面是否符合MIP规范。
 
 如果校验通过，则会显示绿色的**`SUCCESS → 验证成功，完全符合MIP规范`**提示您页面校验成功。
 

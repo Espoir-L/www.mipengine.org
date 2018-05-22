@@ -4,7 +4,7 @@ layout: examples
 
 ## 知识储备
 
-在阅读本篇前，您需要了解什么小故事，如果您还不了解什么是小故事，可以查看[开发小故事前期准备](/doc/story/add-story-before.html)、[小故事的组织结构](/doc/story/story-organization-structure.html)、[创建小故事的封面](/doc/story/add-stroy-cover.html)和[创建小故事的封底页面](/doc/story/add-stroy-end.html)了解基础信息；
+在阅读本篇前，您需要了解什么小故事，如果您还不了解什么是小故事，可以查看[开发小故事前期准备](/doc/story/add-story-before.html)、[小故事的组织结构](/doc/story/story-organization-structure.html)、[创建小故事的封面](/doc/story/add-story-cover.html)和[创建小故事的封底页面](/doc/story/add-story-end.html)了解基础信息；
 
 ## 添加统计
 

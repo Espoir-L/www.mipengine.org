@@ -74,7 +74,7 @@ layout: examples
 <mip-story>
     <mip-story-view>
         <mip-story-layer template="fill">
-            <mip-img  layout="responsive" width="480" class="fade-in-scale" height="720" src="/static/img/mip-story/p1.png" layout="responsive"></mip-img>
+            <mip-img  layout="responsive" width="480" class="fade-in-scale" height="720" src="https://www.mipengine.org/static/img/mip-story/p1.png" layout="responsive"></mip-img>
         </mip-story-layer>
         <mip-story-layer template="vertical">
             <div class="page1-wrap">
