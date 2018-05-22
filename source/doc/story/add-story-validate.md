@@ -4,7 +4,7 @@ layout: examples
 
 ## 知识储备
 
-​	在阅读本篇前，您需要了解什么小故事，如果您还不了解什么是小故事，可以查看[开发小故事前期准备](https://www.mipengine.org/doc/story/create1.html)、[小故事的组织结构](https://www.mipengine.org/doc/story/create2.html)、[创建小故事的封面](https://www.mipengine.org/doc/story/create3.html)和[创建小故事的封底页面](https://www.mipengine.org/doc/story/create6.html)了解基础信息。
+​	在阅读本篇前，您需要了解什么小故事，如果您还不了解什么是小故事，可以查看[开发小故事前期准备](/doc/story/create1.html)、[小故事的组织结构](/doc/story/create2.html)、[创建小故事的封面](/doc/story/create3.html)和[创建小故事的封底页面](/doc/story/create6.html)了解基础信息。
 
 ## 小故事的MIP规范校验
 
@@ -12,7 +12,7 @@ layout: examples
 
 ### 使用在线校验工具
 
-首先打开 [MIP 校验工具](https://www.mipengine.org/validator/validate) 的校验网页，把您开发的小故事页面代码复制粘贴到MIP代码校验工具的可视化区域，在网页的底部就会显示出您开发的小故事页面是否符合MIP规范。
+首先打开 [MIP 校验工具](/validator/validate) 的校验网页，把您开发的小故事页面代码复制粘贴到MIP代码校验工具的可视化区域，在网页的底部就会显示出您开发的小故事页面是否符合MIP规范。
 
 如果校验通过，则会显示绿色的**`SUCCESS → 验证成功，完全符合MIP规范`**提示您页面校验成功。
 
@@ -67,25 +67,26 @@ layout: examples
 
 ![fail1](http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/fail1.png)
 
-​在校验的同时，可能会有各种报错，那么您可以通过查看[MIP校验错误列表](https://www.mipengine.org/doc/2-tech/2-validate-mip.html)来定位出错的位置和原因，修改并且重新校验，校验通过就可以提交部署MIP小故事页面了。
+​在校验的同时，可能会有各种报错，那么您可以通过查看[MIP校验错误列表](/doc/2-tech/2-validate-mip.html)来定位出错的位置和原因，修改并且重新校验，校验通过就可以提交部署MIP小故事页面了。
 
 
 ## 小故事开发系列教程
 
-[一、开发小故事前期准备](https://www.mipengine.org/doc/story/add-story-before.html)
+[一、开发小故事前期准备](/doc/story/add-story-before.html)
 
-[二、小故事的组织结构](https://www.mipengine.org/doc/story/story-organization-structure.html)
+[二、小故事的组织结构](/doc/story/story-organization-structure.html)
 
-[三、为小故事创建一个封面](https://www.mipengine.org/doc/story/add-story-cover.html)
+[三、为小故事创建一个封面](/doc/story/add-story-cover.html)
 
-[四、为小故事添加更多的内容段落](https://www.mipengine.org/doc/story/add-story-section.html)
+[四、为小故事添加更多的内容段落](/doc/story/add-story-section.html)
 
-[五、为小故事段落中的元素添加交互动画](https://www.mipengine.org/doc/story/add-story-animation.html)
+[五、为小故事段落中的元素添加交互动画](/doc/story/add-story-animation.html)
 
-[六、为小故事添加背景音乐](https://www.mipengine.org/doc/story/add-story-music.html)
+[六、为小故事添加背景音乐](/doc/story/add-story-music.html)
 
-[七、为小故事添加封底页面](https://www.mipengine.org/doc/story/add-story-end.html)
+[七、为小故事添加封底页面](/doc/story/add-story-end.html)
 
-[八、为小故事添加页面统计](https://www.mipengine.org/doc/story/add-story-pix.html)
+[八、为小故事添加页面统计](/doc/story/add-story-pix.html)
 
-[九、对小故事进行页面代码规范校验](https://www.mipengine.org/doc/story/add-story-validate.html)
+[九、对小故事进行页面代码规范校验](/doc/story/add-story-validate.html)
+

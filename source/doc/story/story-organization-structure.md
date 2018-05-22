@@ -8,7 +8,7 @@ layout: examples
 
 ## 知识储备
 
-​	在阅读本篇前，您需要了解什么小故事，如果您还不了解什么是小故事，可以查看[开发小故事前期准备](https://www.mipengine.org/doc/story/add-story-before.html)了解基础信息；
+​	在阅读本篇前，您需要了解什么小故事，如果您还不了解什么是小故事，可以查看[开发小故事前期准备](/doc/story/add-story-before.html)了解基础信息；
 
 
 ## 小故事的组织结构介绍
@@ -41,7 +41,7 @@ layout: examples
 
 ### 在页面中添加mip-story 组件标签；
 
-​	`mip-story` 是一个自定义的MIP组件，与使用其他mip组件一样，您必须要将该组件的关联脚本添加到html页面中；在一个标准的 [MIP HTML 页面](https://www.mipengine.org/doc/01-mip-demo.html)的`<script>`标签中添加依赖脚本：
+​	`mip-story` 是一个自定义的MIP组件，与使用其他mip组件一样，您必须要将该组件的关联脚本添加到html页面中；在一个标准的 [MIP HTML 页面](/doc/01-mip-demo.html)的`<script>`标签中添加依赖脚本：
 
 ```html
 <!DOCTYPE html>
@@ -88,22 +88,23 @@ layout: examples
 这样，我们就完了小故事开发的第一步工作——在页面中添加mip-story标签，接下来让我们添加小故事里的内容。
 
 
-## 小故事开发教程系列
+## 小故事开发系列教程
 
-[一、开发小故事前期准备](https://www.mipengine.org/doc/story/add-story-before.html)
+[一、开发小故事前期准备](/doc/story/add-story-before.html)
 
-[二、小故事的组织结构](https://www.mipengine.org/doc/story/story-organization-structure.html)
+[二、小故事的组织结构](/doc/story/story-organization-structure.html)
 
-[三、为小故事创建一个封面](https://www.mipengine.org/doc/story/add-story-cover.html)
+[三、为小故事创建一个封面](/doc/story/add-story-cover.html)
 
-[四、为小故事添加更多的内容段落](https://www.mipengine.org/doc/story/add-story-section.html)
+[四、为小故事添加更多的内容段落](/doc/story/add-story-section.html)
 
-[五、为小故事段落中的元素添加交互动画](https://www.mipengine.org/doc/story/add-story-animation.html)
+[五、为小故事段落中的元素添加交互动画](/doc/story/add-story-animation.html)
 
-[六、为小故事添加背景音乐](https://www.mipengine.org/doc/story/add-story-music.html)
+[六、为小故事添加背景音乐](/doc/story/add-story-music.html)
 
-[七、为小故事添加封底页面](https://www.mipengine.org/doc/story/add-story-end.html)
+[七、为小故事添加封底页面](/doc/story/add-story-end.html)
 
-[八、为小故事添加页面统计](https://www.mipengine.org/doc/story/add-story-pix.html)
+[八、为小故事添加页面统计](/doc/story/add-story-pix.html)
 
-[九、对小故事进行页面代码规范校验](https://www.mipengine.org/doc/story/add-story-validate.html)
+[九、对小故事进行页面代码规范校验](/doc/story/add-story-validate.html)
+

@@ -5,8 +5,7 @@ layout: examples
 
 ## 知识储备
 
-​	在阅读本篇前，您需要了解什么小故事，如果您还不了解什么是小故事，可以查看[开发小故事前期准备](https://www.mipengine.org/doc/story/create1.html)、[小故事的组织结构](https://www.mipengine.org/doc/story/create2.html)、[创建小故事的封面](https://www.mipengine.org/doc/story/create3.html)了解基础信息；
-
+​	在阅读本篇前，您需要了解什么小故事，如果您还不了解什么是小故事，可以查看[开发小故事前期准备](/doc/story/add-story-before.html)、[小故事的组织结构](/doc/story/story-organization-structure.html)、[创建小故事的封面](/doc/story/add-stroy-cover.html)了解基础信息；
 
 ## 为小故事添加封底页面
 
@@ -116,25 +115,26 @@ layout: examples
 
   ​
 
-完成以上步骤，那么你的一个小故事页面就已经开发完成了。但是正式对外发布之前，你可能会关心页面统计的事情，这点我们会在[为小故事添加统计](https://www.mipengine.org/doc/story/add-story-pix.html)中进行介绍；
+完成以上步骤，那么你的一个小故事页面就已经开发完成了。但是正式对外发布之前，你可能会关心页面统计的事情，这点我们会在[为小故事添加统计](/doc/story/add-story-pix.html)中进行介绍；
 
 
 ## 小故事开发系列教程
 
-[一、开发小故事前期准备](https://www.mipengine.org/doc/story/add-story-before.html)
+[一、开发小故事前期准备](/doc/story/add-story-before.html)
 
-[二、小故事的组织结构](https://www.mipengine.org/doc/story/story-organization-structure.html)
+[二、小故事的组织结构](/doc/story/story-organization-structure.html)
 
-[三、为小故事创建一个封面](https://www.mipengine.org/doc/story/add-story-cover.html)
+[三、为小故事创建一个封面](/doc/story/add-story-cover.html)
 
-[四、为小故事添加更多的内容段落](https://www.mipengine.org/doc/story/add-story-section.html)
+[四、为小故事添加更多的内容段落](/doc/story/add-story-section.html)
 
-[五、为小故事段落中的元素添加交互动画](https://www.mipengine.org/doc/story/add-story-animation.html)
+[五、为小故事段落中的元素添加交互动画](/doc/story/add-story-animation.html)
 
-[六、为小故事添加背景音乐](https://www.mipengine.org/doc/story/add-story-music.html)
+[六、为小故事添加背景音乐](/doc/story/add-story-music.html)
 
-[七、为小故事添加封底页面](https://www.mipengine.org/doc/story/add-story-end.html)
+[七、为小故事添加封底页面](/doc/story/add-story-end.html)
 
-[八、为小故事添加页面统计](https://www.mipengine.org/doc/story/add-story-pix.html)
+[八、为小故事添加页面统计](/doc/story/add-story-pix.html)
 
-[九、对小故事进行页面代码规范校验](https://www.mipengine.org/doc/story/add-story-validate.html)
+[九、对小故事进行页面代码规范校验](/doc/story/add-story-validate.html)
+
