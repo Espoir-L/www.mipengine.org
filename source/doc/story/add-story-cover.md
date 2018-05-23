@@ -8,9 +8,9 @@ layout: examples
 
 ## 小故事的封面的开发
 
-### 添加一个封面外壳
+### 添加一个封面
 
-​&emsp;&emsp;MIP小故事中的页面由`<mip-story-view>`组件表示。在`<mip-story>`组件内部，你可以添加一个或多个`<mip-story-view>`组件。
+​&emsp;&emsp;MIP小故事中的页面由`<mip-story-view>`组件表示。在`<mip-story>`组件内部，您可以添加一个或多个`<mip-story-view>`组件。
 
 ​&emsp;&emsp;首先添加第一个小故事段落，在代码中添加一个`mip-story-view` 标签。在小故事页面中，第一个段落通常被定义小故事封面，因此给它添加一个唯一的id为 `cover`;
 
@@ -22,7 +22,7 @@ layout: examples
 </mip-story>
 ```
 
-​&emsp;&emsp;以上是小故事封面的外壳，接下来添加封面的内容；
+​&emsp;&emsp;以上是小故事封面，接下来添加封面的内容；
 
 ### 在封面中添加图层
 

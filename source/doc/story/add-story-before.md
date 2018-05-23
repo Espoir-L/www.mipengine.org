@@ -6,7 +6,7 @@ layout: examples
 
 ### 小故事是什么
 
-&emsp;&emsp;小故事是一种可交互的多媒体卡片，是由多元化内容组成的媒体形态，可带来沉浸式、多媒体、可交互的浏览体验，如图，是一个小故事的示例；
+&emsp;&emsp;小故事是一种可交互的多媒体卡片，是由多元化内容组成的媒体形态，可以给用户带来沉浸式、多媒体、可交互的浏览体验，如图，是一个小故事的示例；
 
 - 示例
 
@@ -48,7 +48,7 @@ layout: examples
 
 2、运行示例页面
 
-​&emsp;&emsp;运行示例代码的方法和访问一个MIP页面的方法一样，MIP 页文件可以直接运行，你可以选择如下方式，像预览普通 HTML 文件一样预览 MIP-HTML 页面：
+​&emsp;&emsp;运行示例代码的方法和访问一个MIP页面的方法一样，MIP 页文件可以直接运行，您可以选择如下方式，像预览普通 HTML 文件一样预览 MIP-HTML 页面：
 
 - 直接在浏览器中打开（由于 XML HTTP Requests 失败可能会导致某些元素预览失败）。
 - 在本地部署一个服务，如 Apache，Nginx 等。
@@ -60,7 +60,7 @@ layout: examples
 http://localhost:8000/oscar-story.html
 ```
 
-​&emsp;&emsp;完成了以上准备工作，接下来，开始开发属于你自己的小故事。
+​&emsp;&emsp;完成了以上准备工作，接下来，开始开发属于您自己的小故事。
 
 下一节：[小故事的组织结构](/doc/story/story-organization-structure.html)。
 

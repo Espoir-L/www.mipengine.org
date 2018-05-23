@@ -8,7 +8,7 @@ layout: examples
 
 ## 使用小故事内置动画
 
-​​&emsp;&emsp;为了小故事页面更生动，你可以为页面上的元素添加一些入场动画。
+​​&emsp;&emsp;为了小故事页面更生动，您可以为页面上的元素添加一些入场动画。
 
 - 示例：
 
@@ -16,7 +16,7 @@ layout: examples
     <img src="http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/animation3.gif" width="276" height="494" />
 </div>
 
-​​&emsp;&emsp;`mip-story`组件中已封装好了一些常用的动画类型，你可以按照下面描述的方法使用；
+​​&emsp;&emsp;`mip-story`组件中已封装好了一些常用的动画类型，您可以按照下面描述的方法使用；
 
 ### 小故事内置的动画
 
@@ -92,7 +92,7 @@ layout: examples
   - 是否必填：否
   - 取值：带有动画元素的id
 
-​​&emsp;&emsp;您可以通过更改`animate-in-delay`、`animate-in-duration`和`animate-in-after` 属性的延迟或持续时间来自定义动画的时间。
+​​&emsp;&emsp;您可以通过更改`animate-in-delay`、`animate-in-duration`和`animate-in-after` 这些属性的值来调节动画的细节。
 
 - 示例
 
@@ -137,7 +137,7 @@ layout: examples
     <img src="http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/animation-0.png" width="276" height="494" />
 </div>
 
-​​&emsp;&emsp;在此基础上添加动画，为了使得页面生动，可以添加动画效果。首先制作文本的入口动画，并在页面右侧显示“fade-in”。像这样添加`animate-in="fade-in"`到`<span>`元素：
+​​&emsp;&emsp;在此基础上添加动画，为了使得页面生动，可以添加动画效果。首先制作文本的入口动画，使其在页面中展现淡入的动画效果，像这样添加`animate-in="fade-in"`到`<span>`元素：
 
 ```html
 <mip-story-view>
@@ -190,9 +190,9 @@ layout: examples
 
 ## 使用css动画
 
-​​&emsp;&emsp;当然，内置的动画在某些场景下无法完全满足需求，因此，我们也兼容传统的css aniamtion属性动画，你可以在页面中`<style mip-custom></style>` 中定义你的css animation, 并在元素中使用；
+​​&emsp;&emsp;当然，内置的动画在某些场景下无法完全满足需求，因此，我们也兼容传统的css aniamtion属性动画，您可以在页面中`<style mip-custom></style>` 中定义您的css animation, 并在元素中使用；
 
-[notice] 由于customElement在IOS 11.3上的css animation 存在些兼容性问题，直接使用css动画可能会导致部分情况下动画第一帧丢失，这个问题我们正在解决中。你可以通过显示的为`mip-story`组件声明`display`属性来避免这个问题；
+[notice] 由于customElement在IOS 11.3上的css animation 存在些兼容性问题，直接使用css动画可能会导致部分情况下动画第一帧丢失，这个问题我们正在解决中。您可以通过显示的为`mip-story`组件声明`display`属性来避免这个问题；
 
 
 ```html

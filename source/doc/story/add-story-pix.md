@@ -38,7 +38,7 @@ layout: examples
 </mip-stats-baidu>
 ```
 
-​​&emsp;&emsp;可以点击[ `mip-stats-baidu` 组件](/examples/mip-extensions/mip-stats-baidu.html)介绍了解更多使用信息。完成统计添加，现在可以把你的小故事页面发布到的服务器上让大家浏览了。如果你希望你的小故事页面可以被提交到搜索并被搜索缓存，就必须要通过代码规范校验。
+​​&emsp;&emsp;可以点击[ `mip-stats-baidu` 组件](/examples/mip-extensions/mip-stats-baidu.html)介绍了解更多使用信息。完成统计添加，现在可以把您的小故事页面发布到的服务器上让大家浏览了。如果您希望您的小故事页面可以被提交到搜索并被搜索缓存，就必须要通过代码规范校验。
 
 上一节：[为小故事添加封底页面](/doc/story/add-story-end.html)
 

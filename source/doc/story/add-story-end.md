@@ -38,7 +38,7 @@ layout: examples
 </mip-story>
 ```
 
-配置完以上信息，你的封底页面就已经初步完成了；
+配置完以上信息，您的封底页面就已经初步完成了；
 
 <div align=center>
     <img src="http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/share.png" width="276" height="494" />
@@ -46,7 +46,7 @@ layout: examples
 
 ### recommend
 
-​​​&emsp;&emsp;如果你希望用户在阅读完当前的小故事之后，可以看到更多推荐的内容，我们提供了`recommend`字段可继续配置推荐内容的数据。
+​​​&emsp;&emsp;如果您希望用户在阅读完当前的小故事之后，可以看到更多推荐的内容，我们提供了`recommend`字段可继续配置推荐内容的数据。
 
 ```html
 <mip-story>
@@ -56,7 +56,7 @@ layout: examples
             "thumbnail": "img/share.jpg",
             "background": "img/sharebg.png",
             "title": "相约一起看樱花",
-            "desc": "带你了解世界著名的赏樱圣地",
+            "desc": "带您了解世界著名的赏樱圣地",
             "from": " "
         },
         "recommend": {
