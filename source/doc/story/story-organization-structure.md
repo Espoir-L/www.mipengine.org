@@ -4,16 +4,16 @@ layout: examples
 
 ## 小故事的组织结构
 
-​	本篇主要讲解小故事的结构划分和代码结构；
+​&emsp;&emsp;本篇主要讲解小故事的**结构划分**和**代码结构**；
 
 ## 知识储备
 
-​	在阅读本篇前，您需要了解什么小故事，如果您还不了解什么是小故事，可以查看[开发小故事前期准备](/doc/story/add-story-before.html)了解基础信息；
+​&emsp;&emsp;在阅读本篇前，您需要了解什么是小故事，可以查看[开发小故事前期准备](/doc/story/add-story-before.html)了解基础信息；
 
 
 ## 小故事的组织结构介绍
 
-​	小故事主要由 [mip-story 组件](/examples/mip-extensions/mip-story.html) 承载，充当小故事中所有段落的容器，按照段落个数自动生成段落导航，段落播放完的重播和分享功能。
+​&emsp;&emsp;小故事主要由 [mip-story 组件](/examples/mip-extensions/mip-story.html) 承载，充当小故事中所有段落的容器，按照段落个数自动生成段落导航，段落播放完的重播和分享功能。
 
 小故事具有三个基本概念：段落（view），层（layer）和元素（element）.
 
@@ -23,7 +23,7 @@ layout: examples
 
 ![intro-view-layer-element (1)](http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/intro-view-layer-element.jpg)
 
-​	这里的每一个元素都是一个mip组件，其中故事组件 为`mip-story`，段落为`mip-story-view`，层为`mip-story-layer`，元素为资源素材，如背景图，主标题，详细描述等。在 `<h1>`、`<p>`、`<mip-img>` 等标签中声明。
+​&emsp;&emsp;这里的每一个元素都是一个mip组件，其中故事组件 为`mip-story`，段落为`mip-story-view`，层为`mip-story-layer`，元素为资源素材，如背景图，主标题，详细描述等。在 `<h1>`、`<p>`、`<mip-img>` 等标签中声明。
 
 
 
@@ -41,7 +41,7 @@ layout: examples
 
 ### 在页面中添加mip-story 组件标签；
 
-​	`mip-story` 是一个自定义的MIP组件，与使用其他mip组件一样，您必须要将该组件的关联脚本添加到html页面中；在一个标准的 [MIP HTML 页面](/doc/01-mip-demo.html)的`<script>`标签中添加依赖脚本：
+​&emsp;&emsp;`mip-story` 是一个自定义的MIP组件，与使用其他MIP组件一样，您必须要将该组件的关联脚本添加到html页面中；在一个标准的 [MIP HTML 页面](/doc/01-mip-demo.html)的`<script>`标签中添加依赖脚本：
 
 ```html
 <!DOCTYPE html>
@@ -61,7 +61,7 @@ layout: examples
 </html>
 ```
 
-​	添加好依赖后，需要把`mip-story`元素添加到`<body>`文档中，如下所示：
+​&emsp;&emsp;添加好依赖后，需要把`mip-story`元素添加到`<body>`文档中，如下所示：
 
 ```html
 <!DOCTYPE html>
@@ -85,7 +85,11 @@ layout: examples
 </html>
 ```
 
-这样，我们就完了小故事开发的第一步工作——在页面中添加mip-story标签，接下来让我们添加小故事里的内容。
+​&emsp;&emsp;以上步骤完了小故事开发的第一步工作——在页面中添加`mip-story`标签。接下来，添加小故事里的内容。
+
+上一节：[开发小故事前期准备](/doc/story/add-story-before.html)。
+
+下一节：[为小故事创建一个封面](/doc/story/add-story-cover.html)。
 
 
 ## 小故事开发系列教程
