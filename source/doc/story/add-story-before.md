@@ -11,7 +11,7 @@ layout: examples
 - 示例
 
 <div align=center>
-    <img src="http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/oscar5.gif" width="276" height="494" />
+    <img src="https://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/oscar5.gif" width="276" height="494" />
 </div>
 
 ### 小故事产品构成
@@ -20,7 +20,7 @@ layout: examples
 
 <!-- - 示例 -->
 
-<!-- ![intro-view-layer-element (1)](http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/intro-view-layer-element.jpg) -->
+<!-- ![intro-view-layer-element (1)](https://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/intro-view-layer-element.jpg) -->
 
 ### 小故事面向人群
 
@@ -28,7 +28,7 @@ layout: examples
 
 ​&emsp;&emsp;在百度搜索结果页的呈现形式如图：
 
-![搜索结果页展示](http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C%E9%A1%B5%E5%B1%95%E7%A4%BA.png)
+![搜索结果页展示](https://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C%E9%A1%B5%E5%B1%95%E7%A4%BA.png)
 
 ## 起步教程
 
@@ -43,7 +43,7 @@ layout: examples
 
 1、下载代码；
 
-- 下载本教程的代码，下载地址如下：[oscar-demo](http://mipstatic.baidu.com/static/mip-static/mip-story/demo/story-demo.zip)；
+- 下载本教程的代码，下载地址如下：[oscar-demo](https://mipstatic.baidu.com/static/mip-static/mip-story/demo/story-demo.zip)；
 - 提取zip文件的内容，减压后在story-demo目录下的oscar-story.html是完整小故事demo的入口。
 
 2、运行示例页面
@@ -52,12 +52,12 @@ layout: examples
 
 - 直接在浏览器中打开（由于 XML HTTP Requests 失败可能会导致某些元素预览失败）。
 - 在本地部署一个服务，如 Apache，Nginx 等。
-   使用 MIP-CLI 辅助预览，使用方法见 MIP 博客：[开发教程一](http://www.cnblogs.com/mipengine/p/mip_cli_1_install.html)。
+   使用 MIP-CLI 辅助预览，使用方法见 MIP 博客：[开发教程一](https://www.cnblogs.com/mipengine/p/mip_cli_1_install.html)。
 
 设置完本地的web服务，通过访问一下URL，可查看小故事的Demo示例：
 
 ```
-http://localhost:8000/oscar-story.html
+https://localhost:8000/oscar-story.html
 ```
 
 ​&emsp;&emsp;完成了以上准备工作，接下来，开始开发属于您自己的小故事。

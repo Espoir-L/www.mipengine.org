@@ -41,7 +41,7 @@ layout: examples
 配置完以上信息，您的封底页面就已经初步完成了；
 
 <div align=center>
-    <img src="http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/share.png" width="276" height="494" />
+    <img src="https://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/share.png" width="276" height="494" />
 </div>
 
 ### recommend
@@ -64,7 +64,7 @@ layout: examples
         "items": [
             {
                 "cover": "https://img6.bdstatic.com/img/image/public/ribenshangying3.jpg",
-                "url": "http://shxingtuan.com/jp_sakura/index.html",
+                "url": "https://shxingtuan.com/jp_sakura/index.html",
                 "title": "日本赏樱推荐",
                 "from": " ",
                 "fromUrl": " "
@@ -90,7 +90,7 @@ layout: examples
 - 示例
 
 <div align=center>
-    <img src="http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/share.jpeg" width="276" height="494" />
+    <img src="https://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/share.jpeg" width="276" height="494" />
 </div>
 
 

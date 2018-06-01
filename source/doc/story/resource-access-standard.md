@@ -25,7 +25,7 @@ layout: examples
 
 ​	选题是小故事的中心切入点。例如，“我花样女王的影片介绍”就是本次选题，所有的段落内容都是围绕选题展开的。title是小故事的题目，如图所示，出现在搜索结果页，故事卡片的上方。主题是能够表达选题内容，并且通过一定的修饰语言吸引用户的，类似“副标题”，在title下面展示。好的小故事的title和主题要与选题有较高的相关度。
 
-![19](http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/19.png)
+![19](https://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/19.png)
 
 （1）title字段覆盖选题
 
@@ -49,19 +49,19 @@ title的字段应该覆盖选题，如选题是“《我，花样女王》”这
 
 图片主体需要在画面中心位置，避免出现主体在边缘的情况，比如人物脸部少一半。
 
-![20](http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/20.png)
+![20](https://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/20.png)
 
 （3）图片设计风格保持一致
 
 图片风格需要保持一致，避免出现图片主色调及图片风格不一致，会导致阅读过程的画面跳跃，破坏阅读体验。
 
-![21](http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/21.png)
+![21](https://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/21.png)
 
 （4）图片中品牌外露要符合规范
 
 落地页的封面和封底可以有品牌logo外露，在内容需不能有品牌logo植入，如果需要有品牌爆光，可以用熊掌号方式或是标注式的文字出现。
 
- ![22](http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/22.png)
+ ![22](https://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/22.png)
 
 **1.1.3**       **内容**
 

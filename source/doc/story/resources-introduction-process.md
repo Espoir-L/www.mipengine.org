@@ -4,7 +4,7 @@ layout: examples
 
 #### 1.  资源引入流程图
 
-![17](http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/17.png)
+![17](https://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/17.png)
 
 #### 2.  资源引入对接方式
 
@@ -14,7 +14,7 @@ layout: examples
 
 **资质问卷提交地址：**https://iwenjuan.baidu.com/?code=rcq1kj
 
- ![18](http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/18.png)
+ ![18](https://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/18.png)
 
 #### 3.  资源引入资质要求介绍
 

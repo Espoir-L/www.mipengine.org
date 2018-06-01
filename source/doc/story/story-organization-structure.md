@@ -21,13 +21,13 @@ layout: examples
 - 每个段落又可以包含多个层（layer），单个层可以设置布局模式，如多行布局，左右布局，图片拉伸布局等。
 - 元素（element）是资源素材，如背景图，主标题，详细描述等。在 `<h1>`、`<p>`、`<mip-img>` 等标签中声明。
 
-![intro-view-layer-element (1)](http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/intro-view-layer-element.jpg)
+![intro-view-layer-element (1)](https://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/intro-view-layer-element.jpg)
 
 ​&emsp;&emsp;这里的每一个元素都是一个mip组件，其中故事组件 为`mip-story`，段落为`mip-story-view`，层为`mip-story-layer`，元素为资源素材，如背景图，主标题，详细描述等。在 `<h1>`、`<p>`、`<mip-img>` 等标签中声明。
 
 
 
-![mip-story-tag-hierarchy](http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/demo-story1.png)
+![mip-story-tag-hierarchy](https://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/demo-story1.png)
 
 ## 开发小故事
 

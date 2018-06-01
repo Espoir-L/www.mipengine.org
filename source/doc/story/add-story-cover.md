@@ -34,7 +34,7 @@ layout: examples
 - **第2层**：故事的标题和副标题
 
 <div align=center>
-    <img src="http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/story-layer.png" width="350" height="494" />
+    <img src="https://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/story-layer.png" width="350" height="494" />
 </div>
 
 #### 2.1 创建封面的背景图
@@ -58,7 +58,7 @@ layout: examples
 ​​&emsp;&emsp;通过以上代码，可以实现封面图片的显示，图形化界面如下：
 
 <div align=center>
-    <img src="http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/cover-0.png" width="276" height="494" />
+    <img src="https://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/cover-0.png" width="276" height="494" />
 </div>
 
 #### 2.2 创建封面的内容
@@ -90,7 +90,7 @@ layout: examples
 ​​&emsp;&emsp;通过以上代码，可实现完整的小故事封面，图形化界面如下：
 
 <div align=center>
-    <img src="http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/cover-6.png" width="276" height="494" />
+    <img src="https://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/cover-6.png" width="276" height="494" />
 </div>
 
 ### `template`布局
@@ -108,7 +108,7 @@ layout: examples
 ```
 
 <div align=center>
-    <img src="http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/cover-2.png" width="276" height="494" />
+    <img src="https://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/cover-2.png" width="276" height="494" />
 </div>
 
 #### `vertical`
@@ -123,7 +123,7 @@ layout: examples
 ```
 
 <div align=center>
-    <img src="http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/cover-3.png" width="276" height="494" />
+    <img src="https://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/cover-3.png" width="276" height="494" />
 </div>
 
 
@@ -138,7 +138,7 @@ layout: examples
 </mip-story-layer>
 ```
 <div align=center>
-    <img src="http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/cover-4.png" width="276" height="494" />
+    <img src="https://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/cover-4.png" width="276" height="494" />
 </div>
 
 #### `thirds`
@@ -159,7 +159,7 @@ layout: examples
 </mip-story-layer>
 ```
 <div align=center>
-    <img src="http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/cover-5.png" width="276" height="494" />
+    <img src="https://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/cover-5.png" width="276" height="494" />
 </div>
 
 

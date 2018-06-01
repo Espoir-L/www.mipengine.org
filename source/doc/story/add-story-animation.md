@@ -13,7 +13,7 @@ layout: examples
 - 示例：
 
 <div align=center>
-    <img src="http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/animation3.gif" width="276" height="494" />
+    <img src="https://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/animation3.gif" width="276" height="494" />
 </div>
 
 ​​&emsp;&emsp;`mip-story`组件中已封装好了一些常用的动画类型，您可以按照下面描述的方法使用；
@@ -71,7 +71,7 @@ layout: examples
 - 示例：
 
 <div align=center>
-    <img src="http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/%E5%B0%8F%E6%95%85%E4%BA%8B%E5%86%85%E7%BD%AE%E5%8A%A8%E7%94%BB.gif" width="276" height="494" />
+    <img src="https://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/%E5%B0%8F%E6%95%85%E4%BA%8B%E5%86%85%E7%BD%AE%E5%8A%A8%E7%94%BB.gif" width="276" height="494" />
 </div>
 
 
@@ -134,7 +134,7 @@ layout: examples
 - 示例：
 
 <div align=center>
-    <img src="http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/animation-0.png" width="276" height="494" />
+    <img src="https://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/animation-0.png" width="276" height="494" />
 </div>
 
 ​​&emsp;&emsp;在此基础上添加动画，为了使得页面生动，可以添加动画效果。首先制作文本的入口动画，使其在页面中展现淡入的动画效果，像这样添加`animate-in="fade-in"`到`<span>`元素：
@@ -185,7 +185,7 @@ layout: examples
 - 示例：
 
 <div align=center>
-    <img src="http://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/animation3.gif" width="276" height="494" />
+    <img src="https://mipstatic.baidu.com/static/mip-static/mip-story/demo/static/animation3.gif" width="276" height="494" />
 </div>
 
 ## 使用css动画
@@ -203,7 +203,7 @@ layout: examples
     <title>小故事内置动画效果示意图</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1,user-scalable=no">
     <link rel="stylesheet" type="text/css" href="https://mipcache.bdstatic.com/static/v1/mip.css">
-    <link rel="canonical" href="http://www.1905.com/mip/oscar">
+    <link rel="canonical" href="https://www.1905.com/mip/oscar">
     <style mip-custom>
 		mip-story {
           	display:none;
